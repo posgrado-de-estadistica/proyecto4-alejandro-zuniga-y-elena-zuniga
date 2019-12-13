@@ -1,0 +1,38 @@
+Proyecto 4: ANÁLISIS DE ESTADÍSTICA ESPACIAL: COMPARACIÓN DE UN MODELO ESPACIAL Y NO ESPACIAL EN LA ESTIMACIÓN DEL PORCENTAJE DE HOGARES CON NECESIDADES BÁSICAS INSATISFECHAS (NBI) POR DISTRITO EN 
+COSTA RICA, AÑO 2011
+
+
+Elaborado por: MarÃ­a Elen ZÃºÃ±iga Brenes
+               Alejandro ZÃºÃ±iga Madrigal
+
+Datos utilizados:
+
+Se estudian 472 distritos de Costa Rica. Para cada uno se analiza porcentaje de hogares con alguna necesidad básica insatisfecha; las cuales fueron estimadas por el Censo del año 2011 por parte del Instituto Nacional de Estadística y Censos. Es importante destacar que para este estudio se excluye la Isla del Coco; con ello. tanto las estimaciones del NBI, así como de las variables del modelo, y los shapes son facilitados por el INEC, y corresponde a los datos y capas del año 2011.
+
+
+Objetivos:
+
+Determinar si existe autocorrelación espacial en la distribución del NBI para los distritos de Costa Rica del año 2011.
+Comparar modelos con estructura espacial con un modelo no espacial, y determinar cuál presenta el mejor ajuste.
+
+
+
+Documentos incluidos:
+
+El informe del trabajo realizado.
+La sintasys en R utilizada para el anÃ¡lisis.
+La presentación en Power Point.
+
+Fuente de los datos: Base de datos del Censo del 2011
+
+Variables utilizadas:
+
+NBI: Porcentaje de hogares con necesidades básicas insatisfechas
+REL_SEC12: Relación del sector primario con el terciario
+IND_SSJEF: Indicador del seguro social de la persona jefa del hogar
+REL_DEPDEM: Relación de dependencia demográfica 
+
+
+
+
+
